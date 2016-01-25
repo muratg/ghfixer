@@ -1,0 +1,16 @@
+﻿{
+    "version": "1.0.0-*",
+    "compilationOptions": {
+        "emitEntryPoint": true
+    },
+
+    "dependencies": {
+        "Microsoft.Extensions.Configuration": "1.0.0-*",
+        "Microsoft.Extensions.Configuration.EnvironmentVariables": "1.0.0-*",    
+        "Octokit": "0.17.0"
+    },
+
+    "frameworks": {
+        "net451": { }
+    }
+}
